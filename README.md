@@ -1,1 +1,1 @@
-# notes
+# Examples of weekly notes
